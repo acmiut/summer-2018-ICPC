@@ -20,6 +20,4 @@
 4. [Plate Game](http://codeforces.com/problemset/problem/197/A)
 5. [Traffic Lights](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=97)
 
-##### For more questions in this topic see codeforces questions with tag *constructive algorithms*.
-
-[constructive algorithms in codeforces](https://codeforces.com/problemset/tags/constructive%20algorithms)
+##### For more questions in this topic see codeforces questions with [*constructive algorithms*](https://codeforces.com/problemset/tags/constructive%20algorithms) and [*implementation*](https://codeforces.com/problemset/tags/implementation) tags.
