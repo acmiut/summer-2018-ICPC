@@ -8,9 +8,9 @@ This repo contains all materials used for summer 2018 program held by IUT ACM St
 * Educational topics for all summer
 * Regular contests
 
-Precise program can be found in:
-* TODO Add precise dates for program.
+### Precise program dates:
 
+![Alt text](program-dates.jpg "Title")
 
 ### Thanks to
 * TODO
