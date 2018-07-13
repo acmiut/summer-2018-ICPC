@@ -10,7 +10,7 @@
 ## Questions
 #### First week:
 1. [The Festive Evening](https://codeforces.com/problemset/problem/834/B)
-
+2. [Throwing cards away I](https://uva.onlinejudge.org/external/109/10935.pdf)
 
 #### Second week:
 
