@@ -1,6 +1,6 @@
 ## Resources
 #### First week:
-* Competitive Programming Chapter 2 part 2.1 and 2.2
+* Competitive Programming Chapter 2 parts 2.1 and 2.2
 * Competitive Programmer's Handbook:
 1. part 4.1, *Dynamic Arrays* (Including introduction to data structures in page 35)
 2. part 4.4, *Iterators and ranges* (except *Set Iterators*)
