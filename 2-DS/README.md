@@ -14,7 +14,7 @@
 ## Questions
 #### First week:
 1. [The Festive Evening](https://codeforces.com/problemset/problem/834/B)
-2. [Throwing cards away I](https://uva.onlinejudge.org/external/109/10935.pdf)
+2. [Throwing cards away I](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=21&page=show_problem&problem=1876)
 
 #### Second week:
 
