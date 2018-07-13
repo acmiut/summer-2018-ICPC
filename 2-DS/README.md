@@ -22,6 +22,8 @@
 4. [Raising Bacteria](https://codeforces.com/problemset/problem/579/A)
 5. [Number of Ways](https://codeforces.com/problemset/problem/466/C)
 
+##### For more questions in this topic see codeforces questions with [*data structure*](https://codeforces.com/problemset/tags/data%20structures) tag.
+
 #### Second week:
 TODO
 
