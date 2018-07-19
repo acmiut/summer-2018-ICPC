@@ -17,10 +17,28 @@
 ## Questions
 #### First week:
 1. [The Festive Evening](https://codeforces.com/problemset/problem/834/B)
-2. [Throwing cards away I](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=21&page=show_problem&problem=1876)
+2. [Throwing cards away I](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=21&page=show_problem&problem=1876) "Problem 10935"
 3. [Han Solo and Lazer Gun](https://codeforces.com/problemset/problem/514/B)
 4. [Raising Bacteria](https://codeforces.com/problemset/problem/579/A)
 5. [Number of Ways](https://codeforces.com/problemset/problem/466/C)
+
+## Editorial
+#### First week
+1. 
+2. see part *Throwing cards away I* [in this editorial](https://codeforces.com/blog/entry/12739)
+3. 
+4.
+5.
+
+
+##### Throwing cards away I
+>This question is simple and basic.You can solve this Problem in 2 ways(Using 2 type of DS)
+1.Using Vector : just remove first element or __Push_back( )__ to end of vector. do it continuously until size of vector is equal to __1__. see[`code`]
+2.Using queue .this is similar to vector.just __pop( )__ or __push( )__ continuously until __q.size( ) == 1__ . then you can print the out put.all of these operations do in a for loop .see [`code`](http://codealltheproblems.blogspot.com/2015/10/uva-10935-throwing-cards-away-i.html)
+
+* the important part of this question is how to output.if you get wrong answer notice how you print your outputs and notice that n can be equal to __1__
+
+
 
 ##### For more questions in this topic see codeforces questions with [*data structure*](https://codeforces.com/problemset/tags/data%20structures) tag.
 
