@@ -38,7 +38,7 @@
 ### First week
 1. TODO
 2. see part *Throwing cards away I* [in this section](#throwing-cards-away-i).
-3. TODO
+3. see part *Han Solo and Lazer Gun* [in this tutorial](https://codeforces.com/blog/entry/16398)
 4. see part *Problm 1 : Raising Bacteria* [in this tutorial](https://codeforces.com/blog/entry/20368).
 5. see part *466C - Number of Ways* [in this tutorial](https://codeforces.com/blog/entry/13758). also see this [code](https://github.com/mehranagh20/ACM-ICPC/blob/master/IUT-ACM-LOCAL-2016/numberOfWays.cpp) which has explanation.
 
