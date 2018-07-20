@@ -1,14 +1,22 @@
 ## Resources
-#### First week:
-* Competitive Programming Chapter 2 parts 2.1 and 2.2
-* Competitive Programmer's Handbook:
-1. part 4.1, *Dynamic Arrays* (Including introduction to data structures in page 35)
-2. part 4.4, *Iterators and ranges* (except *Set Iterators*)
-3. part 4.5, *Other Structures*
+### First week:
+##### Competitive Programming:
+* Chapter 2 parts 2.1
+* Chapter 2 parts 2.2
 
-#### Second week:
-* Competitive Programming Chapter 2 part 3 (2.3)
-* Competitive Programmer's Handbook page ...
+##### Competitive Programmer's Handbook:
+* part 4.1, *Dynamic Arrays* (Including introduction to data structures in page 35)
+* part 4.4, *Iterators and ranges* (except *Set iterators*)
+* part 4.5, *Other Structures*
+
+### Second week:
+##### Competitive Programming:
+* Chapter 2 part 2.3
+
+##### Competitive Programmer's Handbook:
+* page 40-41 *Set iterators*
+* part 4.2, *Set structures*
+* part 4.3, *Map structures*
 
 #### Third week:
 * Competitive Programming Chapter 2 part 4 (2.4)
@@ -17,10 +25,14 @@
 ## Questions
 ### First week:
 1. [The Festive Evening](https://codeforces.com/problemset/problem/834/B)
-2. [Throwing cards away I](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=21&page=show_problem&problem=1876) "Problem 10935"
+2. [Throwing cards away I](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=21&page=show_problem&problem=1876)
 3. [Han Solo and Lazer Gun](https://codeforces.com/problemset/problem/514/B)
 4. [Raising Bacteria](https://codeforces.com/problemset/problem/579/A)
 5. [Number of Ways](https://codeforces.com/problemset/problem/466/C)
+
+### Second week:
+1. [Misha and Changing Handles](http://codeforces.com/problemset/problem/501/B)
+2. [Set of Strings](http://codeforces.com/problemset/problem/544/A)
 
 ## Editorial
 ### First week
