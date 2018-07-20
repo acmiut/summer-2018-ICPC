@@ -38,7 +38,7 @@
 
 ## Editorial
 ### First week
-1. TODO
+1. see part *834B-The Festive Evening* [in this tutorial](https://codeforces.com/blog/entry/53567) and for more explanation see [this sectoin](#the-festive-evening).
 2. see part *Throwing cards away I* [in this section](#throwing-cards-away-i).
 3. see part *Han Solo and Lazer Gun* [in this tutorial](https://codeforces.com/blog/entry/16398)
 4. see part *Problm 1 : Raising Bacteria* [in this tutorial](https://codeforces.com/blog/entry/20368).
@@ -51,6 +51,10 @@
 `2.`Using queue .this is similar to vector.just __pop( )__ or __push( )__ continuously until __q.size( ) == 1__ . then you can print the out put.all of these operations do in a for loop .see [`code`](http://codealltheproblems.blogspot.com/2015/10/uva-10935-throwing-cards-away-i.html)
 
 * the important part of this question is how to output.if you get wrong answer notice how you print your outputs and notice that n can be equal to __1__
+
+#### The Festive Evening
+به ازای هر رشته‌ی ورودی یک بار از ابتدا تا انتهای رشته را بررسی می کنیم تا آخرین موقعیت هر کاراکتر در رشته مشخص شود
+
 
 ### Second week:
 TODO
