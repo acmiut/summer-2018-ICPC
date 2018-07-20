@@ -22,6 +22,14 @@
 4. [Raising Bacteria](https://codeforces.com/problemset/problem/579/A)
 5. [Number of Ways](https://codeforces.com/problemset/problem/466/C)
 
+#### Second week:
+1. [Set of Strings](http://codeforces.com/problemset/problem/544/A)
+
+
+
+#### Third week:
+TODO
+
 ## Editorial
 ### First week
 1. TODO
@@ -38,10 +46,6 @@
 
 * the important part of this question is how to output.if you get wrong answer notice how you print your outputs and notice that n can be equal to __1__
 
-
-
-##### For more questions in this topic see codeforces questions with [*data structure*](https://codeforces.com/problemset/tags/data%20structures) tag.
-
 #### Second week:
 TODO
 
@@ -49,3 +53,8 @@ TODO
 
 #### Third week:
 TODO
+
+
+##### For more questions in this topic see codeforces questions with [*data structure*](https://codeforces.com/problemset/tags/data%20structures) tag.
+
+
