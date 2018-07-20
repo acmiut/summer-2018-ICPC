@@ -38,7 +38,7 @@
 
 ## Editorial
 ### First week
-1. see part *834B-The Festive Evening* [in this tutorial](https://codeforces.com/blog/entry/53567) and for more explanation see [this sectoin](#the-festive-evening).
+1. see part *834B-The Festive Evening* [in this tutorial](https://codeforces.com/blog/entry/53567) and for more explanation with a different way see [this sectoin](#the-festive-evening).
 2. see part *Throwing cards away I* [in this section](#throwing-cards-away-i).
 3. see part *Han Solo and Lazer Gun* [in this tutorial](https://codeforces.com/blog/entry/16398)
 4. see part *Problm 1 : Raising Bacteria* [in this tutorial](https://codeforces.com/blog/entry/20368).
