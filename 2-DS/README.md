@@ -36,6 +36,9 @@
 3. [Word Index](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=358)
 4. [Add All](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1895)
 
+##### For more questions in this topic see codeforces questions with [*data structure*](https://codeforces.com/problemset/tags/data%20structures) tag.
+
+
 ## Editorial
 ### First week
 1. see part *834B-The Festive Evening* [in this tutorial](https://codeforces.com/blog/entry/53567) and for more explanation with another data structure see [this sectoin](#the-festive-evening).
