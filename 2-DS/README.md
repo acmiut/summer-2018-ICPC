@@ -34,7 +34,7 @@
 1. [Misha and Changing Handles](http://codeforces.com/problemset/problem/501/B)
 2. [Set of Strings](http://codeforces.com/problemset/problem/544/A)
 3. [Word Index](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=358)
-4. [Add All](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=189  5)
+4. [Add All](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1895)
 
 ## Editorial
 ### First week
