@@ -50,14 +50,13 @@
 
 * the important part of this question is how to output.if you get wrong answer notice how you print your outputs and notice that n can be equal to __1__
 
+### Second week:
+TODO
+
+
+
+### Third week:
+TODO
 
 
 ##### For more questions in this topic see codeforces questions with [*data structure*](https://codeforces.com/problemset/tags/data%20structures) tag.
-
-#### Second week:
-TODO
-
-
-
-#### Third week:
-TODO
