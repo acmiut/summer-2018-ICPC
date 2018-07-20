@@ -22,12 +22,12 @@
 4. [Raising Bacteria](https://codeforces.com/problemset/problem/579/A)
 5. [Number of Ways](https://codeforces.com/problemset/problem/466/C)
 
-#### Second week:
+### Second week:
 1. [Set of Strings](http://codeforces.com/problemset/problem/544/A)
 
 
 
-#### Third week:
+### Third week:
 TODO
 
 ## Editorial
@@ -46,12 +46,12 @@ TODO
 
 * the important part of this question is how to output.if you get wrong answer notice how you print your outputs and notice that n can be equal to __1__
 
-#### Second week:
+### Second week:
 TODO
 
 
 
-#### Third week:
+### Third week:
 TODO
 
 
