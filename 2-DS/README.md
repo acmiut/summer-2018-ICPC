@@ -24,16 +24,16 @@
 
 ## Editorial
 ### First week
-1. 
-2. see part *Throwing cards away I* .[in this section](#throwing-cards-away-i)
-3. 
-4.
-5.
+1. TODO
+2. see part *Throwing cards away I* [in this section](#throwing-cards-away-i).
+3. TODO
+4. see part *Problm 1 : Raising Bacteria* [in this tutorial](https://codeforces.com/blog/entry/20368).
+5. see part *466C - Number of Ways* [in this tutorial](https://codeforces.com/blog/entry/13758). also see this [code](https://github.com/mehranagh20/ACM-ICPC/blob/master/IUT-ACM-LOCAL-2016/numberOfWays.cpp) which has explanation.
 
 
 #### Throwing cards away I
 >This question is simple and basic.You can solve this Problem in 2 ways(Using 2 type of DS)   
-`1.`Using Vector : just remove first element or __Push_back( )__ to end of vector. do it continuously until size of vector is equal to __1__. see[`code`](https://github.com/acmiut/summer-2018-ICPC/tree/master/2-DS)    
+`1.`Using Vector : just remove first element or __Push_back( )__ to end of vector. do it continuously until size of vector is equal to __1__. see[`code`](https://github.com/mehranagh20/ACM-ICPC/blob/master/uva/throwing-cards-away-i/10935.cpp)    
 `2.`Using queue .this is similar to vector.just __pop( )__ or __push( )__ continuously until __q.size( ) == 1__ . then you can print the out put.all of these operations do in a for loop .see [`code`](http://codealltheproblems.blogspot.com/2015/10/uva-10935-throwing-cards-away-i.html)
 
 * the important part of this question is how to output.if you get wrong answer notice how you print your outputs and notice that n can be equal to __1__
