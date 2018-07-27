@@ -64,7 +64,9 @@
 ### Second week:
 1. 
 2. see part *544A-Set of Strings* [in this tutorial](http://codeforces.com/blog/entry/17773).
-
+3. 
+4. 
+5. see the solution of *Hoax or what* [in this tutorial](http://davidudelson.com/blog/2015/07/23/uva-11136-hoax-or-what/)
 
 
 ### Third week:
