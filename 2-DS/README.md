@@ -18,9 +18,17 @@
 * part 4.2, *Set structures*
 * part 4.3, *Map structures*
 
-#### Third week:
-* Competitive Programming Chapter 2 part 4 (2.4)
-* Competitive Programmer's Handbook page ...
+### Third week:
+##### Competitive Programming:
+* Chapter 2 part 2.4
+
+##### Competitive Programmer's Handbook:
+* part 15.2 *Union-find structure*
+* part 11 *Basics of graphs*
+* part 9 *Range queries*
+
+*optional but suggested:*
+* part 28 *Segment trees revisited*
 
 ## Questions
 ### First week:
