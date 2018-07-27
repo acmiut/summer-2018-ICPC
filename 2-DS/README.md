@@ -62,7 +62,8 @@
 </div>
 
 ### Second week:
-TODO
+1. 
+2. see part *544A-Set of Strings* [in this tutorial](http://codeforces.com/blog/entry/17773).
 
 
 
