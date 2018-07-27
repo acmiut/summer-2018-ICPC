@@ -37,6 +37,16 @@
 4. [Add All](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1895)
 5. [Hoax or what](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=2077)
 
+### Third week:
+1. [Network Connections](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=734)
+2. [Frequent values](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=2176)
+3. [Resort](https://codeforces.com/problemset/problem/350/B)
+
+*Some trickier and harder(better:)) problems:*
+1. [Pashmak and Parmida's problem](https://codeforces.com/contest/459/problem/D)
+2. [Enemy is weak](https://codeforces.com/contest/61/problem/E)
+
+
 ##### For more questions in this topic see codeforces questions with [*data structure*](https://codeforces.com/problemset/tags/data%20structures) tag.
 
 
@@ -62,11 +72,11 @@
 </div>
 
 ### Second week:
-1. 
+1. see part *501B - Misha and Changing Handles* [in this tutorial](http://codeforces.com/blog/entry/15743).
 2. see part *544A-Set of Strings* [in this tutorial](http://codeforces.com/blog/entry/17773).
-3. 
-4. 
-5. see the solution of *Hoax or what* [in this tutorial](http://davidudelson.com/blog/2015/07/23/uva-11136-hoax-or-what/)
+3. see the solution of *Word Index* [in this tutorial](http://www.algorithmist.com/index.php/UVa_417).
+4. see the solution of *Add All* [in this tutorial](http://www.algorithmist.com/index.php/UVa_10954).
+5. see the solution of *Hoax or what* [in this tutorial](http://davidudelson.com/blog/2015/07/23/uva-11136-hoax-or-what/).
 
 
 ### Third week:
