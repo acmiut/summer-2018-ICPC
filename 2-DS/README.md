@@ -30,6 +30,8 @@
 *optional but suggested:*
 * part 28 *Segment trees revisited*
 
+---
+
 ## Questions
 ### First week:
 1. [The Festive Evening](https://codeforces.com/problemset/problem/834/B)
@@ -57,6 +59,7 @@
 
 ##### For more questions in this topic see codeforces questions with [*data structure*](https://codeforces.com/problemset/tags/data%20structures) tag.
 
+---
 
 ## Editorial
 ### First week
@@ -85,6 +88,7 @@
 
 ##### For more questions in this topic see codeforces questions with [*data structure*](https://codeforces.com/problemset/tags/data%20structures) tag.
 
+---
 
 #### Throwing cards away I Editorial
 >This question is simple and basic.You can solve this Problem in 2 ways(Using 2 type of DS)   
@@ -95,6 +99,8 @@
 `2.`Using queue .this is similar to vector.just __pop( )__ or __push( )__ continuously until __q.size( ) == 1__ . then you can print the out put.all of these operations do in a for loop .see [`code`](http://codealltheproblems.blogspot.com/2015/10/uva-10935-throwing-cards-away-i.html)
 
 * the important part of this question is how to output.if you get wrong answer notice how you print your outputs and notice that n can be equal to __1__
+
+---
 
 #### The Festive Evening Editorial
 <div dir="rtl">
