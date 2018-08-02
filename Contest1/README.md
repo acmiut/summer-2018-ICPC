@@ -14,9 +14,9 @@
 ## Editorial
 1. see part *1005A - Tanya and Stairways* [in this editorial](http://codeforces.com/blog/entry/60511).
 2. see part *254A - Cards with Numbers* [in this editorial](http://codeforces.com/blog/entry/6085).
-3. see part *Do Your Own Homework* [here](#do-your-own-homework), also see [code](https://github.com/maryam97/ACM/blob/master/UVa%20problems/11917%20.cpp).
+3. see part *Do Your Own Homework* [here](#do-your-own-homework-editorial), also see [code](https://github.com/maryam97/ACM/blob/master/UVa%20problems/11917%20.cpp).
 4. see part *681C - Heap Operations* [in this editorial](http://codeforces.com/blog/entry/45425).
-5. see part *Potentiometers* [here](#potentiometers), also see code with [Segment Tree](https://github.com/morris821028/UVa/blob/master/volume120/12086%20-%20Potentiometers.cpp) or [Fenwick Tree](https://github.com/ackoroa/UVa-Solutions/blob/master/UVa%2012086%20-%20Potentiometers/src/UVa%2012086%20-%20Potentiometers.cpp).
+5. see part *Potentiometers* [here](#potentiometers-editorial), also see code with [Segment Tree](https://github.com/morris821028/UVa/blob/master/volume120/12086%20-%20Potentiometers.cpp) or [Fenwick Tree](https://github.com/ackoroa/UVa-Solutions/blob/master/UVa%2012086%20-%20Potentiometers/src/UVa%2012086%20-%20Potentiometers.cpp).
 1. see part *297C - Splitting the Uniqueness* [in this editorial](http://codeforces.com/blog/entry/7437).
 
 #### Do Your Own Homework Editorial
