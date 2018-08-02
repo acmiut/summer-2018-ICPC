@@ -79,11 +79,11 @@
 
 
 ### Third week:
-1. see solution of *Network Connections* [in this tutorial](http://www.algorithmist.com/index.php/UVa_793).
+1. see solution of *Network Connections* [in this tutorial](http://www.algorithmist.com/index.php/UVa_793), also see [code](http://davidudelson.com/blog/2015/07/25/uva-793-network-connections/).
 2. see solution of *Frequent Values* [in this tutorial](http://www.algorithmist.com/index.php/UVa_11235).
 3. see part *350B - Resort* [in this tutorial](https://codeforces.com/blog/entry/9042).
 4. see part *459D - Pashmak and Parmida's problem* [in this tutorial](https://codeforces.com/blog/entry/13430).
-5. see solution of *Enemy is weak* [in this tutorial](https://codeforces.com/blog/entry/1347).
+5. see solution of *Enemy is weak* [in this tutorial](https://codeforces.com/blog/entry/1347), also see [code](https://codeforces.com/contest/61/submission/297182).
 
 
 ##### For more questions in this topic see codeforces questions with [*data structure*](https://codeforces.com/problemset/tags/data%20structures) tag.
