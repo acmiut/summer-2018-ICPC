@@ -14,4 +14,4 @@
 5. [CD](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=565)
 
 
-##### For more questions in this topic see codeforces questions with [*brute force*](http://codeforces.com/problemset/tags/brute%20force?order=BY_SOLVED_DESC() tag.
+##### For more questions in this topic see codeforces questions with [*brute force*](http://codeforces.com/problemset/tags/brute%20force?order=BY_SOLVED_DESC) tag.
