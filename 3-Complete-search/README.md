@@ -23,4 +23,4 @@
 
 
 
-##### For more questions in this topic see codeforces questions with [*brute force*](http://codeforces.com/problemset/tags/brute%20force?order=BY_SOLVED_DESC() tag.
+##### For more questions in this topic see codeforces questions with [*brute force*](http://codeforces.com/problemset/tags/brute%20force?order=BY_SOLVED_DESC) tag.
