@@ -8,7 +8,7 @@
 
 ## Questions
 
-#### part one:
+### part one:
 1. [System of Equations](http://codeforces.com/problemset/problem/214/A)
 2. [New Year and Buggy Bot](http://codeforces.com/problemset/problem/908/B)
 3. [Case of Fake Numbers](https://codeforces.com/problemset/problem/556/B)
