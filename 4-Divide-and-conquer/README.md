@@ -14,7 +14,7 @@
 
 ## Editorial
 1. see part *806A - Success Rate* [in this tutorial](http://codeforces.com/blog/entry/51883)
-2. 
-3. 
-4. 
-5. 
+2. see part *1011B - Planning The Expedition* [in this tutorial](http://codeforces.com/blog/entry/60851)
+3. see part *1006C - Three Parts of the Array* [in this tutorial](http://codeforces.com/blog/entry/60672)
+4. see part *954G - Castle Defense* [in this tutorial](https://codeforces.com/blog/entry/58519)
+5. see part *873D - Merge Sort* [in this tutorial](http://codeforces.com/blog/entry/55171)
