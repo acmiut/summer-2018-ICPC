@@ -13,7 +13,7 @@
 5. [Merge Sort](http://codeforces.com/contest/873/problem/D)
 
 ## Editorial
-1. see part *806A - Success Rate* in this tutorial(http://codeforces.com/blog/entry/51883)
+1. see part *806A - Success Rate* [in this tutorial](http://codeforces.com/blog/entry/51883)
 2. 
 3. 
 4. 
