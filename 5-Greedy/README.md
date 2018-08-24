@@ -12,3 +12,5 @@
 4. [Minimum Value Rectangle](https://codeforces.com/problemset/problem/1027/C)
 5. [Creating the Contest](http://codeforces.com/contest/1029/problem/B)
 6. [Magic Numbers](https://codeforces.com/problemset/problem/320/A)
+
+##### For more questions in this topic see codeforces questions with [*Greedy*](http://codeforces.com/problemset/tags/greedy?order=BY_SOLVED_DESC) tag.

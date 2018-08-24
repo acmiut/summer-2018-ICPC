@@ -9,7 +9,7 @@
 3. [Do Your Own Homework](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=3068)
 4. [Heap Operations](http://codeforces.com/problemset/problem/681/C)
 5. [Potentiometers](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=3238)
-6. [C. Splitting the Uniqueness](http://codeforces.com/problemset/problem/297/C)
+6. [Splitting the Uniqueness](http://codeforces.com/problemset/problem/297/C)
 
 ## Editorial
 1. see part *1005A - Tanya and Stairways* [in this editorial](http://codeforces.com/blog/entry/60511).

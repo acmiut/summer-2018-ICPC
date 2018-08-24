@@ -18,3 +18,5 @@
 3. see part *1006C - Three Parts of the Array* [in this tutorial](http://codeforces.com/blog/entry/60672)
 4. see part *954G - Castle Defense* [in this tutorial](https://codeforces.com/blog/entry/58519)
 5. see part *873D - Merge Sort* [in this tutorial](http://codeforces.com/blog/entry/55171)
+
+##### For more questions in this topic see codeforces questions with [*Greedy*](https://codeforces.com/problemset/tags/divide%20and%20conquer?order=BY_SOLVED_DESC) tag.
