@@ -1,8 +1,8 @@
 ## Resources
 ### First and second week:
 ##### Competitive Programming:
-* Chapter 3 parts 3.5.1
-* Chapter 3 parts 3.5.2
+* Chapter 3 part 3.5.1
+* Chapter 3 part 3.5.2
 
 ##### Competitive Programmer's Handbook:
 * Chapter 7 part 7.1
