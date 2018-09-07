@@ -30,4 +30,15 @@ TODO
 ### Third week:
 TODO
 
+## Editorial
+
+### First and second week:
+1. see the solution of *UVa 10684- The jackpot* [in this tutorial](https://saicheems.wordpress.com/2013/07/21/uva-10684-the-jackpot/)
+2. see the solution of *UVa 11456- Trainsorting* [in this tutorial](https://saicheems.wordpress.com/2013/09/01/uva-11456-trainsorting/)
+3. see the solution of *UVa 11517- Exact Change* [in this tutorial]()
+4. see the solution of *UVa 11951- Area* [in this tutorial]()
+5. see the solution of *UVa 1213 - Sum of Different Primes* [in this tutorial](https://turing13.wordpress.com/2016/03/11/uva-1213-sum-of-different-primes/)
+### Third week:
+TODO
+
 ##### For more questions in this topic see codeforces questions with [*dp*](http://codeforces.com/problemset/tags/dp?order=BY_SOLVED_DESC) tag.
