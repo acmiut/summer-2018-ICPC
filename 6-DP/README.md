@@ -26,6 +26,8 @@ TODO
 3. [Exact Change](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=2512)
 4. [Area](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=3102)
 5. [Sum of Different Primes](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=3654)
+6. [Trouble of 13-Dots](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1760)
+7. [Maximum sum on a torus](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1768)
 
 ### Third week:
 TODO
@@ -35,8 +37,8 @@ TODO
 ### First and second week:
 1. see the solution of *UVa 10684- The jackpot* [in this tutorial](https://saicheems.wordpress.com/2013/07/21/uva-10684-the-jackpot/)
 2. see the solution of *UVa 11456- Trainsorting* [in this tutorial](https://saicheems.wordpress.com/2013/09/01/uva-11456-trainsorting/)
-3. see the solution of *UVa 11517- Exact Change* [in this tutorial]()
-4. see the solution of *UVa 11951- Area* [in this tutorial]()
+3. see the solution of *UVa 11517- Exact Change* [in this tutorial](http://www.algorithmist.com/index.php/UVa_11517)
+4. see the solution of *UVa 11951- Area* [in this tutorial](https://saicheems.wordpress.com/2013/08/29/uva-11951-area/)
 5. see the solution of *UVa 1213 - Sum of Different Primes* [in this tutorial](https://turing13.wordpress.com/2016/03/11/uva-1213-sum-of-different-primes/)
 ### Third week:
 TODO
