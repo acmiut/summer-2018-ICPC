@@ -30,7 +30,10 @@ TODO
 7. [Maximum sum on a torus](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1768)
 
 ### Third week:
-TODO
+1. [Cut Ribbon](http://codeforces.com/problemset/problem/189/A)
+2. [Hills](http://codeforces.com/problemset/problem/1012/C)
+3. [Number of Ways](http://codeforces.com/problemset/problem/466/C)
+4. [Vasya And The Mushrooms](http://codeforces.com/problemset/problem/1016/C)
 
 ## Editorial
 
@@ -40,6 +43,9 @@ TODO
 3. see the solution of *UVa 11517- Exact Change* [in this tutorial](http://www.algorithmist.com/index.php/UVa_11517)
 4. see the solution of *UVa 11951- Area* [in this tutorial](https://saicheems.wordpress.com/2013/08/29/uva-11951-area/)
 5. see the solution of *UVa 1213 - Sum of Different Primes* [in this tutorial](https://turing13.wordpress.com/2016/03/11/uva-1213-sum-of-different-primes/)
+6. see the solution of *UVa 1213 - Sum of Different Primes* [Trouble of 13-Dots](http://www.algorithmist.com/index.php/UVa_10819)
+7. see the solution of *UVa 1213 - Sum of Different Primes* [Maximum sum on a torus](https://saicheems.wordpress.com/2013/08/27/uva-10827-maximum-sum-on-a-torus/)
+
 ### Third week:
 TODO
 
