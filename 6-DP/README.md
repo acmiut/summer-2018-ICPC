@@ -12,10 +12,12 @@
 
 ### Third week:
 ##### Competitive Programming:
-TODO
+* Chapter 3 part 3.5.3
 
 ##### Competitive Programmer's Handbook:
-TODO
+* Chapter 7 part 7.3
+* Chapter 7 part 7.6
+* Chapter 10 part 10.4
 
 ---
 
