@@ -34,7 +34,9 @@ TODO
 2. [Hills](http://codeforces.com/problemset/problem/1012/C)
 3. [Number of Ways](http://codeforces.com/problemset/problem/466/C)
 4. [Vasya And The Mushrooms](http://codeforces.com/problemset/problem/1016/C)
-
+5. [Cutting](https://codeforces.com/problemset/problem/998/B)
+6. [Given Length and Sum of Digits...](https://codeforces.com/problemset/problem/489/C)
+7. [Ilya and Queries](https://codeforces.com/problemset/problem/313/B)
 ## Editorial
 
 ### First and second week:
