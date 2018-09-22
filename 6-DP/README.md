@@ -51,6 +51,12 @@
 7. see the solution of *Maximum sum on a torus* [in this tutorial](https://saicheems.wordpress.com/2013/08/27/uva-10827-maximum-sum-on-a-torus/)
 
 ### Third week:
-TODO
+1. see part *189A — Cut Ribbon* [in this tutorial](http://codeforces.com/blog/entry/4540)
+2. see part *1012C - Hills* [in this tutorial](http://codeforces.com/blog/entry/60920)
+3. see part *998B - Cutting* [in this tutorial](https://codeforces.com/blog/entry/60357)
+4. see part *489C - Given Length and Sum of Digits...* [in this tutorial](https://codeforces.com/blog/entry/14741)
+5. see part *313B - Ilya and Queries* [in this tutorial](https://codeforces.com/blog/entry/7826)
+6. see part *466C - Number of Ways* [in this tutorial](http://codeforces.com/blog/entry/13758)
+7. see part *1016C - Vasya And The Mushrooms* [in this tutorial](http://codeforces.com/blog/entry/61015)
 
 ##### For more questions in this topic see codeforces questions with [*dp*](http://codeforces.com/problemset/tags/dp?order=BY_SOLVED_DESC) tag.
