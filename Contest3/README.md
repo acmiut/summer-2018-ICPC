@@ -2,6 +2,7 @@
 * Contest was held in 2018/9/21
 * Was about *dynamic programming* and *greedy*
 * Contest's length was 2.5 hour
+* [link](https://vjudge.net/contest/255773) to contest
 
 ## Questions
 1. [Splitting in Teams](http://codeforces.com/problemset/problem/899/A)
@@ -18,3 +19,6 @@
 4. see part *C* [in this editorial](http://codeforces.com/blog/entry/46510).
 4. see part *D — Red-Green Towers* [in this editorial](https://codeforces.com/blog/entry/18619).
 1. see part *D. Mysterious Present* [in this editorial](http://codeforces.com/blog/entry/178).
+
+## Scoreboard
+![Alt text](scoreboard.png "Title")

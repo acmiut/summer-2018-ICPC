@@ -2,6 +2,7 @@
 * Contest was held in 2018/8/2
 * Was about *ad-hoc* and *data structures*
 * Contest's length was 2.5 hour
+* [link](https://vjudge.net/contest/243365) to contest
 
 ## Questions
 1. [Tanya and Stairways](http://codeforces.com/problemset/problem/1005/A)
@@ -26,3 +27,6 @@ If it was smaller than or equal to D and not equal to zero (string exists in the
 #### Potentiometers Editorial
 > The only important thing to note in this problem is that since *N* can be as large as 200000, then n ^ 2 solutions will not pass the time limit. (10 ^ 8 operations take about 1 seconds to finish).
 so we need an appropriate data structure which supports *update and get* queries efficiently. both *Segment tree* and *Fenwick tree* can be used to solve this problem since both support *update and get* queries in O(log(n)).
+
+## Scoreboard
+![Alt text](scoreboard.png "Title")
